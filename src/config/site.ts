@@ -4,8 +4,8 @@ export const siteConfig = {
   description:
     "Obsidian workflow guides for Markdown writing, content planning, templates, and publishing.",
   repo: "obsidianflow",
-  basePath: "/obsidianflow",
-  siteUrl: "https://yangyangyang-25.github.io",
+  basePath: "",
+  siteUrl: "https://obsidianflow.pages.dev",
   nav: [
     { href: "/", label: "Home" },
     { href: "/blog/", label: "Blog" },
