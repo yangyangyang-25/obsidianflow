@@ -1,0 +1,43 @@
+---
+title: "Obsidian Article Template for SEO Drafts"
+description: "Obsidian Article Template for SEO Drafts with practical steps, checks, and publishing notes for ObsidianFlow readers."
+pubDate: 2026-06-07
+modDate: 2026-06-07
+author: "Jun Yang"
+category: "Templates"
+tags: ["Templates", "Obsidian Article Template", "ObsidianFlow"]
+draft: false
+seoTitle: "Obsidian Article Template for SEO Drafts"
+seoDescription: "Obsidian Article Template for SEO Drafts with practical steps, checks, and publishing notes for ObsidianFlow readers."
+---
+
+## Why this matters
+
+Obsidian Article Template for SEO Drafts matters because small publishing mistakes can affect many pages on a
+static content site. A clear workflow keeps the site useful for readers and easy
+to maintain.
+
+## Setup
+
+Start with the target keyword: `obsidian article template`. Define the reader problem, the
+page type, and the expected outcome before editing templates or publishing new
+content.
+
+## Implementation notes
+
+Create templates for repeatable work instead of starting from a blank note. Keep required fields near the top so drafts are easy to scan. Review templates monthly and remove fields nobody uses.
+
+For ObsidianFlow, this article belongs to the Templates cluster. It should link
+to related terms such as obsidian article template, obsidian meeting note template, obsidian project template when those pages are relevant.
+
+## Final checklist
+
+- The page answers one clear search intent
+- Metadata and slug match the topic
+- Internal links point to related ObsidianFlow guides
+- The production URL is checked after deployment
+
+## Publishing note
+
+This is guide 11 in the ObsidianFlow launch set. Keep it concise,
+refreshable, and connected to the surrounding topic cluster.
