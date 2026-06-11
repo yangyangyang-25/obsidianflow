@@ -4,6 +4,10 @@ export const siteConfig = {
   description:
     "Obsidian workflow guides for Markdown writing, content planning, templates, and publishing.",
   repo: "obsidianflow",
+  author: "Jun Yang",
+  repositoryUrl: "https://github.com/yangyangyang-25/obsidianflow",
+  issuesUrl: "https://github.com/yangyangyang-25/obsidianflow/issues",
+  lastPolicyUpdate: "2026-06-11",
   basePath: "",
   siteUrl: "https://obsidianflow.pages.dev",
   nav: [

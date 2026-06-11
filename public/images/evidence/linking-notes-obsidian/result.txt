@@ -1,0 +1,76 @@
+> obsidianflow@0.1.0 build
+> astro build
+
+22:11:38 [content] Syncing content
+22:11:38 [content] Synced content
+22:11:38 [types] Generated 462ms
+22:11:38 [build] output: "static"
+22:11:38 [build] mode: "static"
+22:11:38 [build] directory: <repo>/dist/
+22:11:38 [build] Collecting build info...
+22:11:38 [build] ✓ Completed in 492ms.
+22:11:38 [build] Building static entrypoints...
+22:11:39 [vite] ✓ built in 1.21s
+22:11:39 [build] ✓ Completed in 1.25s.
+
+ generating static routes
+22:11:39 ▶ src/pages/404.astro
+22:11:39   └─ /404.html (+12ms)
+22:11:39 ▶ src/pages/about.astro
+22:11:39   └─ /about/index.html (+2ms)
+22:11:39 ▶ src/pages/blog/[slug].astro
+22:11:40   ├─ /blog/evergreen-notes-obsidian/index.html (+5ms)
+22:11:40   ├─ /blog/linking-notes-obsidian/index.html (+3ms)
+22:11:40   ├─ /blog/markdown-frontmatter-basics/index.html (+3ms)
+22:11:40   ├─ /blog/map-of-content-obsidian/index.html (+4ms)
+22:11:40   ├─ /blog/markdown-link-audit/index.html (+3ms)
+22:11:40   ├─ /blog/markdown-image-paths-obsidian/index.html (+3ms)
+22:11:40   ├─ /blog/obsidian-article-template/index.html (+3ms)
+22:11:40   ├─ /blog/markdown-writing-workflow/index.html (+2ms)
+22:11:40   ├─ /blog/obsidian-beginner-setup/index.html (+2ms)
+22:11:40   ├─ /blog/obsidian-content-pipeline/index.html (+3ms)
+22:11:40   ├─ /blog/obsidian-content-brief-template/index.html (+5ms)
+22:11:40   ├─ /blog/obsidian-folder-structure/index.html (+5ms)
+22:11:40   ├─ /blog/obsidian-frontmatter-template/index.html (+4ms)
+22:11:40   ├─ /blog/obsidian-image-publishing/index.html (+2ms)
+22:11:40   ├─ /blog/obsidian-markdown-sync/index.html (+2ms)
+22:11:40   ├─ /blog/obsidian-properties-guide/index.html (+2ms)
+22:11:40   ├─ /blog/obsidian-review-workflow/index.html (+3ms)
+22:11:40   ├─ /blog/obsidian-search-tips/index.html (+4ms)
+22:11:40   ├─ /blog/obsidian-tags-vs-folders/index.html (+2ms)
+22:11:40   ├─ /blog/obsidian-to-astro-publishing/index.html (+3ms)
+22:11:40   ├─ /blog/obsidian-template-variables/index.html (+3ms)
+22:11:40   └─ /blog/progressive-summarization-obsidian/index.html (+2ms)
+22:11:40 ▶ src/pages/blog/index.astro
+22:11:40   └─ /blog/index.html (+3ms)
+22:11:40 ▶ src/pages/category/[category].astro
+22:11:40   ├─ /category/knowledge-management/index.html (+3ms)
+22:11:40   ├─ /category/markdown-workflow/index.html (+3ms)
+22:11:40   ├─ /category/templates/index.html (+4ms)
+22:11:40   ├─ /category/obsidian-basics/index.html (+3ms)
+22:11:40   └─ /category/publishing-workflow/index.html (+3ms)
+22:11:40 ▶ src/pages/contact.astro
+22:11:40   └─ /contact/index.html (+2ms)
+22:11:40 ▶ src/pages/disclaimer.astro
+22:11:40   └─ /disclaimer/index.html (+2ms)
+22:11:40 ▶ src/pages/index.astro
+22:11:40   └─ /index.html (+4ms)
+22:11:40 ▶ src/pages/privacy.astro
+22:11:40   └─ /privacy/index.html (+2ms)
+22:11:40 λ src/pages/rss.xml.ts
+22:11:40   └─ /rss.xml (+17ms)
+22:11:40 ▶ src/pages/tag/[tag].astro
+22:11:40   ├─ /tag/knowledge-management/index.html (+4ms)
+22:11:40   ├─ /tag/obsidianflow/index.html (+4ms)
+22:11:40   ├─ /tag/implementation/index.html (+3ms)
+22:11:40   ├─ /tag/markdown-workflow/index.html (+2ms)
+22:11:40   ├─ /tag/templates/index.html (+3ms)
+22:11:40   ├─ /tag/obsidian-basics/index.html (+2ms)
+22:11:40   └─ /tag/publishing-workflow/index.html (+2ms)
+22:11:40 ▶ src/pages/terms.astro
+22:11:40   └─ /terms/index.html (+2ms)
+22:11:40 ✓ Completed in 307ms.
+
+22:11:40 [@astrojs/sitemap] `sitemap-index.xml` created at `dist`
+22:11:40 [build] 42 page(s) built in 2.12s
+22:11:40 [build] Complete!

@@ -1,0 +1,24 @@
+---
+title: "Obsidian Frontmatter Template for Publishing"
+description: "Obsidian Frontmatter Template for Publishing with practical steps, checks, and publishing notes for ObsidianFlow readers."
+pubDate: 2026-06-07
+modDate: 2026-06-11
+author: "Jun Yang"
+category: "Templates"
+tags: ["Templates", "ObsidianFlow", "Implementation"]
+draft: false
+seoTitle: "Obsidian Frontmatter Template for Publishing"
+seoDescription: "Obsidian Frontmatter Template for Publishing with practical steps, checks, and publishing notes for ObsidianFlow readers."
+---
+
+Obsidian Frontmatter Template for Publishing is useful only when the result can be checked. This guide narrows the task to one reproducible outcome and records the exact repository output used on ObsidianFlow.
+
+## Define the expected result
+
+Before changing configuration, write down the route, file, setting, or measurement that should exist afterward. For this implementation, success means the production build completes, the intended public URL remains stable, and the generated artifact matches the site inventory.
+
+The important distinction is between a plausible recommendation and an observed result. This article treats the current repository as a case study, not as proof that every account, vault, browser, network, or hosting plan behaves identically.
+
+## Implementation
+
+Work from a clean branch and inspect the existing configuration before editing. Keep the change limited to obsidian frontmatter template for publishing, preserve a rollback point, and avoid mixing unrelated optimization or taxonomy work into the same release.
